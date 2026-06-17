@@ -76,6 +76,9 @@ Streamlit will open the app in your browser. On the **Home** page, upload your
 own dataset or click *Load sample dataset* to explore the bundled
 `sample_data/sample_customers.csv` (300 rows of synthetic customer data).
 
+## Live Demo
+https://statvision-elbkh4yjyfqpjvdpmwjbbp.streamlit.app/
+
 ## Project structure
 
 ```
